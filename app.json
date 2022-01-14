@@ -6,7 +6,7 @@
     "File",
     "Share"
   ],
-  "repository": "https://github.com/COLD-ONEZ/File-SHare-Bot",
+  "repository": "https://github.com/vassu444/File-SHare-Bot",
   "logo": "https://telegra.ph/file/0f3e2323abbfb493ca817.jpg",
   "env": {
     "TG_BOT_TOKEN": {
